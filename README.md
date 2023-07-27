@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for **first commercial project within data science area.**
 
-- 👨‍💻 All of my projects are available at [github.com/michalakatarzyna/michalakatarzyna](github.com/michalakatarzyna/michalakatarzyna)
+- 👨‍💻 All of my projects are available at [https://github.com/michalakatarzyna?tab=repositories)
 
 - 💬 Ask me about **machine learning models and statisticss**
 
