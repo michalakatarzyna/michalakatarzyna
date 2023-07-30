@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 🤝 I’m looking for **first commercial project within data science area.**
+- 🤝 I’m looking for **first commercial project within the data science area.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/michalakatarzyna?tab=repositories)
+- 👨‍💻 All of my projects are available at (https://github.com/michalakatarzyna?tab=repositories)
 
-- 💬 Ask me about **machine learning models and statisticss**
+- 💬 Ask me about **machine learning models and statistics**
 
 - 📫 How to reach me **michalak.katarzynamk@gmail.com**
 
